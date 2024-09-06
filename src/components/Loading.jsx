@@ -8,6 +8,7 @@ export const Loading = () => {
 				color="black"
 				width={125}
 				height={125}
+				data-testid="loading"
 			/>
 		</div>
 	);
